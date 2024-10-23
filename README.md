@@ -43,6 +43,10 @@ The following queries have been implemented using Databricks, a cloud-based big 
 
 - Given a pair of coordinates, find the number of routes that started within a 5 km radius of that point and cost more than $10. Display the results hourly.
 
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
     ```
     10pm → 5
     ...
